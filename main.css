@@ -41,18 +41,16 @@ body {
 	display: block;
 }
 
-.nav ul {
+#nav ul {
 	list-style: none;
 	padding: 0;
 }
 
 #nav li {
 	margin-left: 1em;
-}
-
-.nav li {
 	display: inline;
 }
+
 
 #nav a.on {
 	border-color: #333;
@@ -62,11 +60,10 @@ body {
 	text-decoration: none;
 	padding: 4px 0;
 	border-bottom: 1px solid #fff;
-}
-
-.nav a {
 	display: inline-block;
 }
+
+
 
 a {
 	color: #333;
