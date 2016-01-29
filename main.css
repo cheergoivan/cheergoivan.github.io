@@ -35,6 +35,21 @@ body {
 	font-size: 1.5em;
 }
 
+#title a {
+	text-decoration: none;
+	padding: 4px 0;
+	display: block;
+}
+
+a {
+	color: #333;
+}
+
+a:hover {
+	color: #666;
+}
+
+
 #nav {
 	float: right;
 	font-size: 1.5em;
@@ -64,24 +79,10 @@ body {
 }
 
 
-
-a {
-	color: #333;
-}
-
-a:hover {
-	color: #666;
-}
-
 #nav a:hover {
 	border-color: #ccc;
 }
 
-#title a {
-	text-decoration: none;
-	padding: 4px 0;
-	display: block;
-}
 
 .feature .film-title {
 	margin-top: 2em;
