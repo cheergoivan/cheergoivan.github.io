@@ -92,7 +92,8 @@ a:hover {
 }
 
 .feature .film-detail {
-	margin-bottom: 0;
+	margin-bottom: 1em;
+	margin-top:0;
 	display: inline-block;
 	font-style: italic;
 	font-size: 1.2em;
