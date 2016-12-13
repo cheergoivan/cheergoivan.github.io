@@ -82,10 +82,13 @@ a:hover {
 	border-color: #ccc;
 }
 
+header.feature {
+    margin-bottom: 2.2em;
+}
 
 .feature .film-title {
-	margin-top: 2em;
-	margin-bottom: 1em;
+	margin-top: 0em;
+	margin-bottom: 0.8em;
 	display: inline-block;
 	margin-right: 0.6em;
 }
